@@ -1,0 +1,2 @@
+INFO:root:add_two ran with positional arguments :(12,) and keywords arguments: {}. Return value: 14 
+INFO:root:add_two ran with positional arguments :(13,) and keywords arguments: {}. Return value: 15 
