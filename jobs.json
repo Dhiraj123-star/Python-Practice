@@ -1,0 +1,122 @@
+[
+    {
+      "job_name": "Software Engineer",
+      "salary": 10000,
+      "company_name": "Google",
+      "remote": true
+    },
+    {
+      "job_name": "Data Scientist",
+      "salary": 15000,
+      "company_name": "Facebook",
+      "remote": false
+    },
+    {
+      "job_name": "Cybersecurity Engineer",
+      "salary": 12000,
+      "company_name": "Microsoft",
+      "remote": true
+    },
+    {
+      "job_name": "Front-End Developer",
+      "salary": 9000,
+      "company_name": "Amazon",
+      "remote": false
+    },
+    {
+      "job_name": "Back-End Developer",
+      "salary": 11000,
+      "company_name": "Apple",
+      "remote": true
+    },
+    {
+      "job_name": "Full-Stack Developer",
+      "salary": 13000,
+      "company_name": "Netflix",
+      "remote": false
+    },
+    {
+      "job_name": "QA Engineer",
+      "salary": 8000,
+      "company_name": "Uber",
+      "remote": true
+    },
+    {
+      "job_name": "DevOps Engineer",
+      "salary": 10000,
+      "company_name": "Tesla",
+      "remote": false
+    },
+    {
+      "job_name": "UI/UX Designer",
+      "salary": 9000,
+      "company_name": "LinkedIn",
+      "remote": true
+    },
+    {
+      "job_name": "Product Manager",
+      "salary": 12000,
+      "company_name": "Adobe",
+      "remote": false
+    },
+    {
+      "job_name": "Sr. Software Engineer",
+      "salary": 15000,
+      "company_name": "Oracle",
+      "remote": true
+    },
+    {
+      "job_name": "Sr. Data Scientist",
+      "salary": 18000,
+      "company_name": "IBM",
+      "remote": false
+    },
+    {
+      "job_name": "Sr. Cybersecurity Engineer",
+      "salary": 16000,
+      "company_name": "SAP",
+      "remote": true
+    },
+    {
+      "job_name": "Sr. Front-End Developer",
+      "salary": 14000,
+      "company_name": "Salesforce",
+      "remote": false
+    },
+    {
+      "job_name": "Sr. Back-End Developer",
+      "salary": 17000,
+      "company_name": "Intel",
+      "remote": true
+    },
+    {
+      "job_name": "Sr. Full-Stack Developer",
+      "salary": 19000,
+      "company_name": "Qualcomm",
+      "remote": false
+    },
+    {
+      "job_name": "Sr. QA Engineer",
+      "salary": 13000,
+      "company_name": "Cisco",
+      "remote": true
+    },
+    {
+      "job_name": "Sr. DevOps Engineer",
+      "salary": 15000,
+      "company_name": "HP",
+      "remote": false
+    },
+    {
+      "job_name": "Sr. UI/UX Designer",
+      "salary": 14000,
+      "company_name": "Dell",
+      "remote": true
+    },
+    {
+      "job_name": "Sr. Product Manager",
+      "salary": 16000,
+      "company_name": "EMC",
+      "remote": false
+    }
+  ]
