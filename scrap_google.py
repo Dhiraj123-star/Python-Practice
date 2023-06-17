@@ -15,11 +15,11 @@ async def get_organic_data():
 
         for el in soup.select(".g"):
             organic_results.append({
-                "title": el.select_one("h3").text,
-                "link": el.select_one(".yuRUbf > a")["href"],
-                "description": el.select_one(".VwiC3b").text,
-                "rank": i+1
-            })
+            #     "title": el.select_one("h3").text,
+            #     "link": el.select_one(".yuRUbf > a")["href"],
+            #     "description": el.select_one(".VwiC3b").text,
+            #     "rank": i+1
+             })
 
             i+=1    
 
