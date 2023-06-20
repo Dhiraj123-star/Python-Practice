@@ -1,0 +1,2 @@
+Python is Interpreted Programming language.
+It is easy to learn and beginner-friendly.
